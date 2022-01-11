@@ -11,6 +11,7 @@
   <summary>List of already compatible resources</summary>
 
   - [kc-test](https://github.com/clementinise/kc-test)
+  - [kc-unicorn](https://github.com/clementinise/kc-unicorn)
 
 </details>
 
