@@ -1,14 +1,15 @@
 fx_version 'cerulean'
 game 'gta5'
 
+lua54 'yes'
+
 author 'Clementinise'
-description 'KC Checker - Automatically check update of compatible resources'
+name '^4Self Check'
+description 'FiveM Checker - Automatically check update of compatible resources'
+github 'https://github.com/clementinise/fivem-checker'
 version '1.0'
 
-server_scripts {
-    'checker.lua',
-}
+server_script 'server.lua'
+client_script 'client.lua'
 
-kc_checker 'yes'
-kc_name '^4Self Check'
-kc_github 'https://github.com/clementinise/kc-checker'
+fivem_checker 'yes'
