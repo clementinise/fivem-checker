@@ -12,6 +12,7 @@
 
   - [kc-test](https://github.com/clementinise/kc-test)
   - [kc-unicorn](https://github.com/clementinise/kc-unicorn)
+  - [kc-carseat](https://github.com/clementinise/kc-carseat)
   - [fivem-vehicleloader](https://github.com/clementinise/fivem-vehicleloader)
 
 </details>
